@@ -121,7 +121,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 5px 10px;
   color: #fff;
 }
-img.logo {
+.gtco-nav img.logo {
   height: 40px;
 }  
 @media screen and (max-width: 768px) {
