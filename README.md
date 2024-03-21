@@ -1,3 +1,3 @@
 Web Mdahost.net
 =====================
-Mdahost.com - Web hosting unlimited gratis domain php mysql full manage server
+Mdahost.net - Web hosting unlimited gratis domain php mysql full manage server
